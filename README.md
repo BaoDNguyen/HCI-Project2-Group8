@@ -11,4 +11,4 @@ Hao Van\
 Bao Dien Quoc Nguyen
 
 Group picture:\
-![member](./img/groupmember.jpg)
+![member](./groupmember.jpg)

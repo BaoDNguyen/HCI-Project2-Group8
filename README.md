@@ -21,6 +21,9 @@ Bao Dien Quoc Nguyen
 Group picture:\
 ![member](./groupmember.jpg)
 
+## Sketch:
+![sketch](./Sketch_p2_group8.png)
+
 ## Application description:
 
 ## Task discription:
@@ -31,6 +34,6 @@ This is due to the fact that people tend to look at the middle of the page at th
 
 Regarding habit of reading from left to right and from top to bottom, we put the Overview plot on the top of the panel, just below the description and selection of data. In this plot, users can feel the similiraty of data points in all of variables.
 
-The tasks which users can explore more the data are put in Examplar plots that is below the Overview. Our first task is Outlier, and it can be easily seen on the top of this section. To open this task, user must click on it, then, the main views appears in the middle of the screen while an expanded views is on the right side. The main views include Focus view with the control panel which allows users to pick dimensions/variables, abtraction or visual feature.
+The tasks which users can explore more the data are put in Examplar plots that is below the Overview. Our first task is Outlier, and it can be easily seen on the top of this section. To open this task, user must click on it, then, the main views appears in the middle of the screen while an expanded views is on the right side. The main views include Focus view with the control panel which allows users to pick dimensions/variables, abtraction or visual feature. Users can choose to look at data in different variables by dropping corresponding variable cards which are below the the Exampler plots into the dimension region. The Abstraction is the selection option of displaying ways such as individual instances, regular binning, data-dependent binning, or abtracted. There are four visual features which users can choose: outlier, variance, multimodility, and skewness.
 
 
